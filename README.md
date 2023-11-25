@@ -1,6 +1,6 @@
-## Hi, I'm Motahare
+## Hi, I'm Motahare  
 
-## Aspiring Software Developer 🚀
+**Aspiring Software Develope**🚀
 - Passionate about delving into the latest technologies and creating innovative software solutions.
 - Currently immersed in the world of **Web Application Development** at [IES Juan De Garay](https://portal.edu.gva.es/iesjuandegaray/). 
 
