@@ -29,4 +29,4 @@
 
 ## Where to find me
 [![Gmail Badge](https://img.shields.io/badge/-motisd8@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:motisd8@gmail.com)](mailto:motisd8@gmail.com)
-[![motahare-saidi](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/motahare-saidi)
+
