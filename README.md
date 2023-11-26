@@ -27,6 +27,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)  
 
-## Where to find me
+## Contact me
 [![Gmail Badge](https://img.shields.io/badge/-motisd8@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:motisd8@gmail.com)](mailto:motisd8@gmail.com)
 
