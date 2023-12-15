@@ -28,5 +28,6 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)  
 
 ## Contact me
-[![Gmail Badge](https://img.shields.io/badge/-motisd8@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:motisd8@gmail.com)](mailto:motisd8@gmail.com)
+[Motahare Saidi's LinkedIn Profile](https://www.linkedin.com/in/motahare-saidi/)
+
 
