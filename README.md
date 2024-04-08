@@ -1,7 +1,7 @@
 ## Hi, I'm Moti
 
-**Aspiring Software Developer**🚀
-- Passionate about delving into the latest technologies and creating innovative software solutions.
+** Programmer to be **🚀
+- Passionate about learning.
 - Currently immersed in the world of **Web Application Development** at [IES Juan De Garay](https://portal.edu.gva.es/iesjuandegaray/). 
 
 
