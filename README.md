@@ -1,6 +1,6 @@
 ## Hi, I'm Moti
 
-** Programmer to be **🚀
+# Programmer to be 
 - Passionate about learning.
 - Currently immersed in the world of **Web Application Development** at [IES Juan De Garay](https://portal.edu.gva.es/iesjuandegaray/). 
 
